@@ -8,6 +8,7 @@ Download pyttsx3:
 ```bash
 pip install pyttsx3
 ```
-Download Yolov8: ```bash 
+Download Yolov8: 
+```bash 
 pip install ultralytics
 ```
